@@ -2,7 +2,7 @@
 
 This is a simple project where I've put into practice various web development concepts, including:
 
-  -Script Tags: Added JavaScript code to my HTML using script tags to make the webpage interactive.
+  - Script Tags: Added JavaScript code to my HTML using script tags to make the webpage interactive.
 
   - Variables: Used variables to store and manage data in my JavaScript code.
 
