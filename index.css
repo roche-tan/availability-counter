@@ -4,10 +4,15 @@ body {
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
     text-align: center;
-    height: 100vh;
+    height: 100vh;    
 }
-.container{
-    max-width: 800px;
+.container {
+    background: white;
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+    
 }
 
 h1 {
@@ -22,7 +27,7 @@ h2 {
 }
 
 button {
-    /* border: none; */
+    border: none;
     padding-top: 10px;
     padding-bottom: 10px;
     color: #541f35;
